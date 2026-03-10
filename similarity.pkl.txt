@@ -1,0 +1,6 @@
+import pickle
+import numpy as np
+
+similarity = np.random.rand(10,10)
+
+pickle.dump(similarity, open("similarity.pkl","wb"))
