@@ -1,39 +1,51 @@
-# 🎬 Movie Recommendation System (Netflix Style)
+🎬 Netflix Style Movie Recommendation System
 
-This project is a **Data Science based Movie Recommendation System** that suggests movies based on similarity.  
-The application provides an interactive **Netflix-style dashboard** where users can select a movie and receive similar movie recommendations.
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![Data Science](https://img.shields.io/badge/Data%20Science-Project-green)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Recommendation-orange)
 
-The system analyzes movie titles using **similarity techniques** and displays movie details such as poster, IMDb rating, genre, and plot using an external movie API.
+## 📌 Project Overview
 
----
+This project is a **Data Science based Movie Recommendation System** that suggests similar movies based on user selection.
 
-## 🚀 Project Overview
+The application provides an **interactive Netflix-style dashboard** where users can select a movie and receive recommendations instantly.
 
-This project was developed over **1 month** as part of a learning journey in **Data Science and recommendation systems**.
+The system uses **similarity techniques and real movie data** to generate recommendations and display detailed movie information.
 
-The goal of this project was to understand how modern platforms recommend content and to build an interactive movie recommender using real movie data.
-
----
-
-## 🔹 Key Features
-
-• 🎬 Netflix-style dark themed dashboard  
-• 📊 Similarity based movie recommendation system  
-• 🖼 Dynamic movie posters fetched using an API  
-• ⭐ IMDb rating, genre, year, and plot display  
-• 🎞 Movie trailer playback inside the app  
-• 🔥 Trending movies section for discovery  
-• 🎛 User rating slider for interaction  
+This project was developed over **1 month of learning, experimentation, and development** as part of my **Data Science learning journey**.
 
 ---
 
-## 🛠 Technologies Used
+## 🚀 Features
+
+🎬 Netflix-style dark themed dashboard  
+
+📊 Similarity-based movie recommendation system  
+
+🖼 Movie posters fetched using a movie API  
+
+⭐ IMDb rating, genre, year, and plot display  
+
+🎞 Movie trailer playback inside the app  
+
+🔥 Trending movies section  
+
+🎛 User rating interaction  
+
+---
+
+## 🛠 Tech Stack
 
 Python  
+
 Pandas  
+
 Scikit-learn  
+
 Streamlit  
-Requests (API integration)
+
+Requests (API Integration)
 
 ---
 
